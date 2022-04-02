@@ -1,0 +1,1 @@
+FROM samhunt/samhunt/debian-basic-image:lastest
