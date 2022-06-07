@@ -1,1 +1,1 @@
-FROM samhunt/samhunt/debian-basic-image:lastest
+FROM samhunt/debian-basic-image:lastest
